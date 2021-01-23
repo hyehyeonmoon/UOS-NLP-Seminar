@@ -19,3 +19,32 @@
 | 23th Dec, 2020 | 7 | Lecture 15 – Natural Language Generation | 김민정 | [Slide](https://github.com/Tobigs-team/Text-Seminar/blob/master/Slides/week7/CS224n_Lecture15.pdf) | [Video](https://www.youtube.com/watch?v=4uG1NMKNWCU&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=15&ab_channel=stanfordonline)
 | 23th Dec, 2020 | 7 | Lecture 18 – Constituency Parsing, TreeRNNs | 정민준 | [Slide](https://github.com/Tobigs-team/Text-Seminar/blob/master/Slides/week7/CS224n_Lecture18.pdf) | [Video](https://www.youtube.com/watch?v=6Z4A3RSf-HY&list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z&index=18&ab_channel=stanfordonline)
 <br/>
+
+### 4. 저장소 사용 규칙
+
+- 팀 단위 저장소를 처음 사용해보는 분을 위하여 다음과 같이 작성했습니다. 참고부탁드려요
+  - 강의자는 자신이 할당된 주차, 강의에 맞게 자료를 업로드 해주셔야 합니다.
+  - 사전 충돌을 방지하기 위해서 **Pull requests**를 받도록 하겠습니다. 강의자분은 레포를 **fork**하여 로컬 레포에서 작업 후 **Pull requests**를 보내주시면 감사하겠습니다.(이 부분이 어렵다면 깃 강의자에게 문의주세요.)
+  - 강의자가 **Pull requests**에 담아야할 작업(메인 리드미에 Slide link 채우기, 강의자료 업로드 및 해당 주차 markdown 작성, 기타..)
+
+- 저장소 구조
+
+```
+Text-Seminar
+├── Assignment # for assignment
+│   ├── assignment1
+│   ├── assignment2
+│   ├── assignment3
+│   └── assignment4
+├── Slides # for lecture files
+│   ├── week1
+│   ├── week2
+│   ├── week3
+│   ├── week4
+│   ├── week5
+│   ├── week6
+│   └── week7
+├── LICENSE
+├── .gitignore
+└── README.md
+```
