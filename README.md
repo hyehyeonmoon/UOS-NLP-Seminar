@@ -19,7 +19,7 @@
 | 23th Dec, 2020 | Lecture 18 – Constituency Parsing, TreeRNNs | ??? | [Slide]()
 <br/>
 
-### 4. Repository Rule
+### 2. Repository Rule
 
 - 팀 단위 저장소를 처음 사용해보는 분을 위하여 다음과 같이 작성했습니다. 참고부탁드려요
   - 강의자는 자신이 할당된 주차, 강의에 맞게 자료를 업로드 해주셔야 합니다.
