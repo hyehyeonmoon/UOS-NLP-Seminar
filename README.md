@@ -14,9 +14,9 @@
 | 16th Dec, 2020 | Lecture 11 – Convolutional Networks for NLP | 오창대 | [Slide](https://github.com/yourmean/UOS-NLP-Seminar/blob/master/Slides/lec11_CNNforNLP.pdf)
 | 23th Jan, 2021 | Lecture 12 – Subword Models | 문혜현 | [Slide](https://github.com/yourmean/UOS-NLP-Seminar/blob/master/Slides/lec12_Subword_models.pdf)
 | 16th Dec, 2020 | Lecture 13 – Contextual Word Embeddings | 강창구 | [Slide]()
-| 23th Dec, 2020 | Lecture 14 – Transformers and Self-Attention | ??? | [Slide]()
-| 23th Dec, 2020 | Lecture 15 – Natural Language Generation | ??? | [Slide]()
-| 23th Dec, 2020 | Lecture 18 – Constituency Parsing, TreeRNNs | ??? | [Slide]()
+| 23th Dec, 2020 | Lecture 14 – Transformers and Self-Attention | 이유민 | [Slide]()
+| 23th Dec, 2020 | Lecture 15 – Natural Language Generation | 오창대 | [Slide]()
+| 23th Dec, 2020 | Lecture 18 – Constituency Parsing, TreeRNNs |  | [Slide]()
 <br/>
 
 ### 2. Repository Rule
