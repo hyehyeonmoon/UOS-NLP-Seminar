@@ -1,4 +1,4 @@
-### 1. NLP Seminar Curriculum
+### 1. NLP Seminar Curriculum 
 
 |       Date       | Topic | Presenters | Slides |
 |:----------------:|:----------------------------------------:|:----------:|:------:
