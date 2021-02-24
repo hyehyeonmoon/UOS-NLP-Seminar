@@ -14,8 +14,8 @@
 | 20210116 | Lecture 11 – Convolutional Networks for NLP | 오창대 | [Slide](https://github.com/yourmean/UOS-NLP-Seminar/blob/master/Slides/lec11_CNNforNLP.pdf)
 | 20210123 | Lecture 12 – Subword Models | 문혜현 | [Slide](https://github.com/yourmean/UOS-NLP-Seminar/blob/master/Slides/lec12_Subword_models.pdf)
 | 20210130 | Lecture 13 – Contextual Word Embeddings | 강창구 | [Slide](https://github.com/yourmean/UOS-NLP-Seminar/blob/master/Slides/lec13_Contextual_Word_Embedding.pdf)
-| 20200210 | Lecture 14 – Transformers and Self-Attention | 이유민 | [Slide]()
-| 20200215 | Lecture 15 – Natural Language Generation | 오창대 | [Slide]()
+| 20210210 | Lecture 14 – Transformers and Self-Attention | 이유민 | [Slide]()
+| 20210215 | Lecture 15 – Natural Language Generation | 오창대 | [Slide]()
 | 20210220 | Lecture 18 – Constituency Parsing, TreeRNNs | 문혜현 | [Slide](https://github.com/yourmean/UOS-NLP-Seminar/blob/master/Slides/lec18_Constituency%20Parsing%2C%20TreeRNNs.pdf)
 <br/>
 
