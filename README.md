@@ -3,7 +3,7 @@
 |       Date       | Topic | Presenters | Slides |
 |:----------------:|:----------------------------------------|:----------:|:------:
 | 20200925 |   Lecture 1 – Introduction and Word Vectors | 이유민 | [Slide]()
-| 20201004 |   Lecture 2 – Word Vectors and Word Senses | 오창대 | [Slide]()
+| 20201004 |   Lecture 2 – Word Vectors and Word Senses | 오창대 | [Slide](https://github.com/yourmean/UOS-NLP-Seminar/blob/master/Slides/lec02_Word_Vectors_and_Word_senses.pdf)
 | 20201010 |   Lecture 3 – Word Window Classification, Neural Networks, and Matrix Calculus | 안재현 | [Slide]()
 | 20201030 |   Lecture 4 – Backpropagation and Computation Graphs | 문혜현 | [Slide](https://github.com/yourmean/UOS-NLP-Seminar/blob/master/Slides/lec04_Backpropagation_and_Computationgraphs.pdf)
 | 20201113 |   Lecture 5 – Linguistic Structure: Dependency Parsing | 이유민 | [Slide]()
